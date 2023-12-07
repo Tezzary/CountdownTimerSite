@@ -1,0 +1,36 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+
+.mainText {
+    font-size: 200px;
+    font-weight: bold;
+    color: #000000;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+.subText{
+    font-size: 20px;
+    font-weight: bold;
+    color: #000000;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+
+}
+.mainBodyDiv{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

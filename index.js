@@ -1,6 +1,7 @@
 let currentTime = new Date();
 
-let wantedTime = new Date('December 11, 2023 07:00:00')
+//let wantedTime = new Date('December 11, 2023 07:00:00')
+let wantedTime = new Date('December 12, 2024 07:00:00')
 
 let text = document.getElementById('mainText')
 
